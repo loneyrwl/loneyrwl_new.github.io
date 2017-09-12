@@ -182,7 +182,7 @@ header {
         }
     }
     @media (min-width: 768px) {
-        min-height: 100%;
+        min-height: 30%;
         .header-content {
             position: absolute;
             top: 50%;
@@ -194,6 +194,7 @@ header {
                 max-width: 1000px;
                 margin-left: auto;
                 margin-right: auto;
+                margin-top:60px;
                 p {
                     font-size: 18px;
                     max-width: 80%;
