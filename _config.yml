@@ -17,7 +17,7 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 highlighter: pygments
 
 assets: http://loneyrwl.github.io/assets
-baseurl: http://loneyrwl.github.io
+baseurl:
 
 # pagination
 paginate: 10
