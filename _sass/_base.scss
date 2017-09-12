@@ -149,13 +149,20 @@ aside {
 
 // Homepage Header
 
+.frontHeader {
+    background-image: url('../img/post-bg-header.jpg');
+}
+.article-info {
+    background-image: url('../img/post-bg-miui6.jpg');
+}
+
 header {
     position: relative;
     width: 100%;
     min-height: auto;
     @include background-cover;
     background-position: center;
-    background-image: url('../img/post-bg-header.jpg');
+    //background-image: url('../img/post-bg-header.jpg');
     text-align: center;
     color: white;
     .header-content {
