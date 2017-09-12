@@ -106,9 +106,7 @@ toc:
 ## if you don't want display contents in a specified post,you can modify `front-matter` and add `toc: false`.
 
 #### Links
-links:
-- www.baidu.com
-- http://sunxiaobiu.github.io
+links: http://sunxiaobiu.github.io
 
 excerpt_separator: <!--more-->
 
