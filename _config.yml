@@ -81,7 +81,7 @@ mathjax: false      #enable mathjax if true
 
 #### Author information
 author:
-  name: renwenlong      ## e.g. wuchong Author name
+  name: admin      ## e.g. wuchong Author name
   intro_line1:  "Hello ,I'm Loney in Shenzhen."    ## your introduction on the bottom of the page
   intro_line2:  "Too simple, sometimes naive."  ## the 2nd line
   weibo: 3177415814     ## e.g. wuchong1014 or 2176287895 for http://weibo.com/2176287895
